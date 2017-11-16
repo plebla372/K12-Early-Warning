@@ -1,0 +1,9 @@
+C:\Users\pleblanc\Documents\My Projects\Early Warning\Phase 1 - Staging\2 - Tables and Views\VS Project\EarningWarning.Stage\EarningWarning.Stage\bin\Debug\EarningWarning.Stage.dacpac
+C:\Users\pleblanc\Documents\My Projects\Early Warning\Phase 1 - Staging\2 - Tables and Views\VS Project\EarningWarning.Stage\EarningWarning.Stage\bin\Debug\EarningWarning.Stage.dll
+C:\Users\pleblanc\Documents\My Projects\Early Warning\Phase 1 - Staging\2 - Tables and Views\VS Project\EarningWarning.Stage\EarningWarning.Stage\bin\Debug\EarningWarning.Stage.pdb
+C:\Users\pleblanc\Documents\My Projects\Early Warning\Phase 1 - Staging\2 - Tables and Views\VS Project\EarningWarning.Stage\EarningWarning.Stage\obj\Debug\Model.xml
+C:\Users\pleblanc\Documents\My Projects\Early Warning\Phase 1 - Staging\2 - Tables and Views\VS Project\EarningWarning.Stage\EarningWarning.Stage\obj\Debug\refactor.xml
+C:\Users\pleblanc\Documents\My Projects\Early Warning\Phase 1 - Staging\2 - Tables and Views\VS Project\EarningWarning.Stage\EarningWarning.Stage\obj\Debug\postdeploy.sql
+C:\Users\pleblanc\Documents\My Projects\Early Warning\Phase 1 - Staging\2 - Tables and Views\VS Project\EarningWarning.Stage\EarningWarning.Stage\obj\Debug\predeploy.sql
+C:\Users\pleblanc\Documents\My Projects\Early Warning\Phase 1 - Staging\2 - Tables and Views\VS Project\EarningWarning.Stage\EarningWarning.Stage\obj\Debug\EarningWarning.Stage.dll
+C:\Users\pleblanc\Documents\My Projects\Early Warning\Phase 1 - Staging\2 - Tables and Views\VS Project\EarningWarning.Stage\EarningWarning.Stage\obj\Debug\EarningWarning.Stage.pdb

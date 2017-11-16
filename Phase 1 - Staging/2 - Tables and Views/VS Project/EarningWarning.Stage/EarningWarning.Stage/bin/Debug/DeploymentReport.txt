@@ -1,0 +1,37 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[StageActivities] (Table)
+       [dbo].[StageClassAttendance] (Table)
+       [dbo].[StageDailyAttendance] (Table)
+       [dbo].[StageDemographics] (Table)
+       [dbo].[StageIncident] (Table)
+       [dbo].[StageWarningSystem] (Table)
+       [dbo].[LoadAction] (View)
+       [dbo].[LoadActivities] (View)
+       [dbo].[LoadAttendanceType] (View)
+       [dbo].[LoadClassAttendance] (View)
+       [dbo].[LoadCourse] (View)
+       [dbo].[LoadDailyAttendance] (View)
+       [dbo].[LoadDailyIncident] (View)
+       [dbo].[LoadIncident] (View)
+       [dbo].[LoadInvolvement] (View)
+       [dbo].[LoadSchool] (View)
+       [dbo].[LoadStudent] (View)
+       [dbo].[LoadTypeActivity] (View)
+       [dbo].[LoadWarningSystem] (View)
+       [dbo].[LoadAction].[MS_DiagramPane1] (Extended Property)
+       [dbo].[LoadAction].[MS_DiagramPaneCount] (Extended Property)
+       [dbo].[LoadActivities].[MS_DiagramPane1] (Extended Property)
+       [dbo].[LoadActivities].[MS_DiagramPaneCount] (Extended Property)
+
+** Supporting actions
